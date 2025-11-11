@@ -11,13 +11,48 @@ A machine learning engineer building practical AI systems across vision, languag
 
 ## Tech Stack
 
-| **Languages & Frameworks** | **Traditional ML/DL** |
-|-----------------------------|-----------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> <img src="https://skillicons.dev/icons?i=fastapi" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="35" height="35"/> |
-| **Computer Vision** | **Generative AI & LLMs** |
-| <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" height="35"/> <img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" width="35" height="35"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="35" height="35"/> <img src="https://avatars.githubusercontent.com/u/69666225?s=200&v=4" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="35" height="35"/> <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="35" height="35"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="35" height="35"/> |
-| **Tools & Platforms** | |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35" height="35"/> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70" height="35"/> | |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Languages & Frameworks</b><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="35" height="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35"/>
+    </td>
+    <td align="center" width="50%">
+      <b>Traditional ML/DL</b><br><br>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="35" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="35" height="35"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Computer Vision</b><br><br>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" height="35"/>
+      <img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" width="35" height="35"/>
+      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="35" height="35"/>
+      <img src="https://avatars.githubusercontent.com/u/69666225?s=200&v=4" width="35" height="35"/>
+    </td>
+    <td align="center" width="50%">
+      <b>Generative AI & LLMs</b><br><br>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="35" height="35"/>
+      <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="35" height="35"/>
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="35" height="35"/>
+      <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="35" height="35"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Tools & Platforms</b><br><br>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="35" height="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35" height="35"/>
+      <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70" height="35"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Stats
