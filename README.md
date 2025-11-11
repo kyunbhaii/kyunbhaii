@@ -17,37 +17,7 @@ I build AI systems that solve real-world problems — from visual perception to 
 - **Computer Vision**: Object detection, tracking, and real-time video analytics
 - **NLP & Embeddings**: Semantic search, recommendation systems, and language models
 - **Applied AI**: Building production-ready systems with LangChain, HuggingFace, and FastAPI
-
----
-
-## 💼 Featured Projects
-
-### 🚶 [FootFall Counting System](https://github.com/kyunbhaii/FootFall-Counting-YOLOv-BoT-SORT)
-Real-time people counting using **YOLOv8** and **BoT-SORT** tracking. Built with adaptive tripwire logic, motion filtering, and cooldown control to accurately track entries and exits in busy environments.
-
-**Tech Stack:** YOLOv8, BoT-SORT, OpenCV, Python
-
----
-
-### 🧤 [Hand Glove Detection](https://github.com/kyunbhaii/Hand-Glove-Detection)
-Custom YOLOv8 model that detects and classifies gloved vs. bare hands in images. Useful for safety compliance monitoring in industrial and healthcare settings.
-
-**Tech Stack:** YOLOv8, PyTorch, Computer Vision
-
----
-
-### 📚 [Word Similarity API](https://github.com/kyunbhaii/Word-Similarity-API)
-FastAPI service that finds semantically similar words using a custom-trained **Word2Vec** model on Stack Overflow data. Returns relevant programming terms based on context and usage patterns.
-
-**Tech Stack:** FastAPI, Gensim Word2Vec, NLP, Python
-
----
-
-### 👗 [Vibe Matcher](https://github.com/kyunbhaii/Vibe-Matcher)
-AI-powered fashion recommendation system that matches user queries (moods/vibes) to products using **Google Gemini embeddings** and semantic search. Leverages large language model embeddings to understand nuanced style preferences.
-
-**Tech Stack:** Google Gemini API, Semantic Search, Python, Pandas
-
+- 
 ---
 
 ## 🛠️ Tech Stack
@@ -116,14 +86,6 @@ AI-powered fashion recommendation system that matches user queries (moods/vibes)
 
 ---
 
-## 🎓 What Drives Me
-
-I'm passionate about building AI that feels human. Whether it's tracking movement in real-time, understanding natural language nuances, helping people discover products they'll love, or creating intelligent assistants that actually understand context — I focus on making AI that's both powerful and intuitive.
-
-I believe the best AI systems don't just work technically; they solve real problems in ways that feel natural to users. That's why I'm excited about GenAI — it's pushing the boundaries of what's possible in human-AI interaction.
-
----
-
 ## 🌟 Current Interests
 
 - Building RAG systems for enterprise knowledge bases
@@ -147,16 +109,6 @@ I believe the best AI systems don't just work technically; they solve real probl
 
 ---
 
-## 🎯 2024 Goals
-
-- [ ] Build and deploy a production RAG system
-- [ ] Contribute to open-source LLM projects
-- [ ] Fine-tune a domain-specific language model
-- [ ] Create a multi-modal AI application
-- [ ] Share learnings through blog posts/tutorials
-
----
-
 **"Building AI that understands, not just computes."**
 
 ---
@@ -172,7 +124,7 @@ I believe the best AI systems don't just work technically; they solve real probl
 
 Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/scmvikram" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20" height="20"/>
   </a>
