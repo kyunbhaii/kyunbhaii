@@ -82,5 +82,5 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 </a>
 <a href="https://x.com/kyunbhaii" target="_blank">
   <img align="right" alt="Vikramaditya Mishra | X" width="21px"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
+       src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" />
 </a>
