@@ -57,18 +57,14 @@ A machine learning engineer building practical AI systems across vision, languag
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunbhaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
 
