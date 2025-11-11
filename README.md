@@ -74,12 +74,12 @@ A machine learning engineer building practical AI systems across vision, languag
 
 Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
 
-<a href="https://twitter.com/kyunbhaii">
-  <img align="right" alt="Vikramaditya Mishra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="mailto:vikrmadityamishra@gmail.com">
+  <img align="right" alt="Email" width="21px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
 <a href="https://linkedin.com/in/scmvikram">
   <img align="right" alt="Vikramaditya Mishra | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="mailto:vikrmadityamishra@gmail.com">
-  <img align="right" alt="Email" width="21px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+<a href="https://twitter.com/kyunbhaii">
+  <img align="right" alt="Vikramaditya Mishra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
