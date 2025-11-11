@@ -56,7 +56,6 @@ AI-powered fashion recommendation system that matches user queries (moods/vibes)
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a>
 </p>
 
@@ -175,9 +174,9 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 
 <p align="left">
   <a href="https://linkedin.com/in/scmvikram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://twitter.com/kyunbhaii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="35"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="30"/>
   </a>
 </p>
