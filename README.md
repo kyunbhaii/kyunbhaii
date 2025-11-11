@@ -175,15 +175,9 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 
 <p align="left">
   <a href="https://linkedin.com/in/scmvikram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
-  </a>
-  <a href="mailto:vikrmadityamishra@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="45"/>
   </a>
   <a href="https://twitter.com/kyunbhaii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="35"/>
   </a>
 </p>
