@@ -1,4 +1,4 @@
-# Hi, I'm Vikramaditya Mishra
+# Hi, I'm Vikramaditya
 
 **`ML Engineer | Exploring Vision & GenAI`**
 
