@@ -23,8 +23,6 @@ A machine learning engineer building practical AI systems across vision, languag
   <a href="https://ai.meta.com/llama/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="LLaMA" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://ai.google.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Gemini" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/109468332?s=200&v=4" alt="ChromaDB" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78010728?s=200&v=4" alt="Pinecone" width="35" height="35" style="margin-right:10px;"/></a>
 </p>
