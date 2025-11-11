@@ -1,11 +1,12 @@
-# Vikrmaditya Mishra
+# Hi, I'm Vikrmaditya Mishra
 
 **`ML Engineer | Computer Vision & GenAI Enthusiast | Building Intelligent Systems`**
 
-🔍 Focused on Computer Vision, Generative AI, and Real-Time Applications  
-🤖 Currently diving deep into LLMs, RAG systems, and multi-modal AI
-
 I build AI systems that solve real-world problems — from visual perception to creating intelligent conversational agents and personalized experiences. My work spans computer vision, NLP, generative AI, and everything in between.
+
+> Focused on Computer Vision, Generative AI, and Real-Time Applications 
+ > 
+> Currently diving deep into LLMs, RAG systems, and multi-modal AI 
 
 ## 🛠️ Tech Stack
 
