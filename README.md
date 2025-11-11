@@ -149,13 +149,13 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 
 ## 📊 GitHub Stats
 
-![Vikramaditya's GitHub stats](<p align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunbhaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>)
+</p>
 
-![Top Languages](<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>)
+</p>
 
 ---
 
