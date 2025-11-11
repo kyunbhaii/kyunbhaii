@@ -98,10 +98,6 @@ I build AI systems that solve real-world problems — from visual perception to 
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
-**"Building AI that understands, not just computes."**
-
-⭐️ Feel free to explore my repositories, star projects you find interesting, and reach out if you'd like to collaborate on GenAI or CV projects!
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyunbhaii&label=Profile%20views&color=0e75b6&style=flat" alt="kyunbhaii" />
 </p>
