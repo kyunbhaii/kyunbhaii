@@ -24,7 +24,6 @@ A machine learning engineer building practical AI systems across vision, languag
       <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" style="margin:8px;"/></a>
       <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" style="margin:8px;"/></a>
       <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" style="margin:8px;"/></a>
-      <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48" style="margin:8px;"/></a>
     </td>
   </tr>
   <tr>
