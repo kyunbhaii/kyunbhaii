@@ -80,6 +80,6 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 <a href="https://linkedin.com/in/scmvikram">
   <img align="right" alt="Vikramaditya Mishra | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://twitter.com/kyunbhaii">
-  <img align="right" alt="Vikramaditya Mishra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://x.com/kyunbhaii" target="_blank">
+  <img align="right" alt="Vikramaditya Mishra | X" width="21px" src="https://img.icons8.com/fluency/48/x--v1.png" />
 </a>
