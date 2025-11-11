@@ -32,14 +32,12 @@ A machine learning engineer building practical AI systems across vision, languag
       <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" style="margin:8px;"/></a>
       <a href="https://ultralytics.com/yolov8" target="_blank"><img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" width="48" height="48" style="margin:8px;"/></a>
       <a href="https://pytorch.org/vision/stable/index.html" target="_blank"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" style="margin:8px;"/></a>
-      <a href="https://ai.facebook.com/tools/detectron2/" target="_blank"><img src="https://avatars.githubusercontent.com/u/69666225?s=200&v=4" width="48" height="48" style="margin:8px;"/></a>
     </td>
     <td align="center" style="border:1px solid #2f363d; padding:18px;">
       <b>Generative AI & LLMs</b><br><br>
       <a href="https://ai.meta.com/llama/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="48" height="48" style="margin:8px;"/></a>
       <a href="https://huggingface.co/" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="48" height="48" style="margin:8px;"/></a>
       <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" style="margin:8px;"/></a>
-      <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/109468332?s=200&v=4" width="48" height="48" style="margin-right:8px;"/></a>
     </td>
   </tr>
   <tr>
