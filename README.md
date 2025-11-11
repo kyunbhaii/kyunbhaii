@@ -1,6 +1,6 @@
 # Hi, I'm Vikrmaditya Mishra
 
-**`ML Engineer | Computer Vision & GenAI Enthusiast | Building Intelligent Systems`**
+**`ML Engineer | Computer Vision & GenAI Geek | Building Intelligent Systems`**
 
 I build AI systems that solve real-world problems — from visual perception to creating intelligent conversational agents and personalized experiences. My work spans computer vision, NLP, generative AI, and everything in between.
 
