@@ -53,9 +53,12 @@ AI-powered fashion recommendation system that matches user queries (moods/vibes)
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- Python (Primary)
-- FastAPI, Flask
-- Jupyter Notebooks
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a>
+</p>
 
 **Generative AI & LLMs:**
 - 🦙 LLaMA, Llama 3
@@ -134,9 +137,13 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 
 ## 📊 GitHub Stats
 
-![Vikramaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&theme=tokyonight)
+![Vikramaditya's GitHub stats](<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunbhaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunbhaii&layout=compact&theme=tokyonight)
+![Top Languages](<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>)
 
 ---
 
