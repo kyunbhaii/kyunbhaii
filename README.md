@@ -6,7 +6,6 @@
 🔍 Focused on Computer Vision, Generative AI, and Real-Time Applications  
 🤖 Currently diving deep into LLMs, RAG systems, and multi-modal AI
 
----
 
 ## 🚀 What I'm Working On
 
@@ -17,8 +16,6 @@ I build AI systems that solve real-world problems — from visual perception to 
 - **Computer Vision**: Object detection, tracking, and real-time video analytics
 - **NLP & Embeddings**: Semantic search, recommendation systems, and language models
 - **Applied AI**: Building production-ready systems with LangChain, HuggingFace, and FastAPI
-- 
----
 
 ## 🛠️ Tech Stack
 
@@ -67,8 +64,6 @@ I build AI systems that solve real-world problems — from visual perception to 
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="80" height="40"/></a>
 </p>
 
----
-
 ## 🧠 What I'm Learning Right Now
 
 ### Generative AI Deep Dive 🚀
@@ -84,8 +79,6 @@ I build AI systems that solve real-world problems — from visual perception to 
 - Responsible AI and model safety
 - MLOps and model deployment pipelines
 
----
-
 ## 🌟 Current Interests
 
 - Building RAG systems for enterprise knowledge bases
@@ -94,8 +87,6 @@ I build AI systems that solve real-world problems — from visual perception to 
 - Fine-tuning models for specific domains
 - Multi-modal AI applications (vision + language)
 - Prompt engineering and optimization techniques
-
----
 
 ## 📊 GitHub Stats
 
@@ -107,11 +98,7 @@ I build AI systems that solve real-world problems — from visual perception to 
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
----
-
 **"Building AI that understands, not just computes."**
-
----
 
 ⭐️ Feel free to explore my repositories, star projects you find interesting, and reach out if you'd like to collaborate on GenAI or CV projects!
 
@@ -119,7 +106,6 @@ I build AI systems that solve real-world problems — from visual perception to 
   <img src="https://komarev.com/ghpvc/?username=kyunbhaii&label=Profile%20views&color=0e75b6&style=flat" alt="kyunbhaii" />
 </p>
 
---- 
 ## 📫 Let's Connect
 
 Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
