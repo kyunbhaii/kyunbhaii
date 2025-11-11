@@ -1,4 +1,4 @@
-# Hi, I'm Vikrmaditya Mishra
+# Hi, I'm Vikramaditya Mishra
 
 **`ML Engineer | Computer Vision & GenAI Geek | Building Intelligent Systems`**
 
