@@ -2,11 +2,12 @@
 
 **`ML Engineer | Computer Vision & GenAI Geek | Building Intelligent Systems`**
 
-I build AI systems that solve real-world problems — from visual perception to creating intelligent conversational agents and personalized experiences. My work spans computer vision, NLP, generative AI, and everything in between.
+A machine learning engineer building practical AI systems across vision, language, and generative models. I regularly share insights and experiments on Twitter.
 
 > Focused on Computer Vision, Generative AI, and Real-Time Applications 
  > 
 > Currently diving deep into LLMs, RAG systems, and multi-modal AI 
+
 
 ## 🛠️ Tech Stack
 
@@ -55,6 +56,7 @@ I build AI systems that solve real-world problems — from visual perception to 
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="80" height="40"/></a>
 </p>
 
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -64,6 +66,7 @@ I build AI systems that solve real-world problems — from visual perception to 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
+
 
 ## 📫 Let's Connect
 
