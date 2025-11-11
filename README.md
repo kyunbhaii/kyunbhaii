@@ -81,5 +81,6 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
   <img align="right" alt="Vikramaditya Mishra | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://x.com/kyunbhaii" target="_blank">
-  <img align="right" alt="Vikramaditya Mishra | X" width="21px" src="https://img.icons8.com/fluency/48/x--v1.png" />
+  <img align="right" alt="Vikramaditya Mishra | X" width="21px"
+       src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023_original.svg" />
 </a>
