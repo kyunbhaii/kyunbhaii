@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Kunal
+# Hey there! 👋 I'm Vikramditya
 
 **AI Engineer | Computer Vision & GenAI Enthusiast | Building Intelligent Systems**
 
@@ -136,17 +136,6 @@ I believe the best AI systems don't just work technically; they solve real probl
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 **LinkedIn:** (https://linkedin.com/in/scmvikram)
-- 📧 **Email:** vikrmadityamishra@gmail.com
-- 🐦 **Twitter/X:** (https://twitter.com/kyunbhaii)
-- 🌐 **Portfolio:** Coming soon!
-
-Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -177,4 +166,24 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyunbhaii&label=Profile%20views&color=0e75b6&style=flat" alt="kyunbhaii" />
+</p>
+
+--- 
+## 📫 Let's Connect
+
+Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
+
+<p align="left">
+  <a href="https://linkedin.com/in/scmvikram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  <a href="mailto:vikrmadityamishra@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45"/>
+  </a>
+  <a href="https://twitter.com/kyunbhaii" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" width="45" height="45"/>
+  </a>
 </p>
