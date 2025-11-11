@@ -34,14 +34,6 @@ A machine learning engineer building practical AI systems across vision, languag
   </a>
 </p>
 
-**Generative AI & LLMs:**
-<p align="left">
-  <a href="https://ai.meta.com/llama/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="LLaMA" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/109468332?s=200&v=4" alt="ChromaDB" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78010728?s=200&v=4" alt="Pinecone" width="35" height="35" style="margin-right:10px;"/></a>
-</p>
 
 **Traditional ML/DL:**
 <p align="left">
@@ -49,7 +41,14 @@ A machine learning engineer building practical AI systems across vision, languag
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://ultralytics.com/yolov8" target="_blank"><img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" alt="YOLOv8" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="https://avatars.githubusercontent.com/u/43483749?s=200&v=4" alt="Gensim" width="35" height="35" style="margin-right:10px;"/></a>
+
+**Generative AI & LLMs:**
+<p align="left">
+  <a href="https://ai.meta.com/llama/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="LLaMA" width="35" height="35" style="margin-right:10px;"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="35" height="35" style="margin-right:10px;"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="35" height="35" style="margin-right:10px;"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/109468332?s=200&v=4" alt="ChromaDB" width="35" height="35" style="margin-right:10px;"/></a>
+  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78010728?s=200&v=4" alt="Pinecone" width="35" height="35" style="margin-right:10px;"/></a>
 </p>
 
 **Tools & Platforms:**
