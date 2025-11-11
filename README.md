@@ -1,6 +1,6 @@
 # Hi, I'm Vikramaditya Mishra
 
-**`ML Engineer | Computer Vision & GenAI Geek | Building Intelligent Systems`**
+**`ML Engineer | Exploring Vision, Language & GenAI `**
 
 A machine learning engineer building practical AI systems across vision, language, and generative models. I regularly share insights and experiments on Twitter.
 
