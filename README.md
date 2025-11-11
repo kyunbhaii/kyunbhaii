@@ -9,7 +9,7 @@ A machine learning engineer building practical AI systems across vision, languag
 > Currently diving deep into LLMs, RAG systems, and multi-modal AI 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**
 <p align="left">
