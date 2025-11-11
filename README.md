@@ -149,7 +149,7 @@ Open to collaborations on GenAI projects, computer vision challenges, or buildin
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunbhaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
