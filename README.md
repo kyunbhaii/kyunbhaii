@@ -1,21 +1,11 @@
-# Hey there! 👋 I'm Vikramditya
+# Vikrmaditya Mishra
 
-**AI Engineer | Computer Vision & GenAI Enthusiast | Building Intelligent Systems**
+**`ML Engineer | Computer Vision & GenAI Enthusiast | Building Intelligent Systems`**
 
-📍 Based in India  
 🔍 Focused on Computer Vision, Generative AI, and Real-Time Applications  
 🤖 Currently diving deep into LLMs, RAG systems, and multi-modal AI
 
-
-## 🚀 What I'm Working On
-
 I build AI systems that solve real-world problems — from visual perception to creating intelligent conversational agents and personalized experiences. My work spans computer vision, NLP, generative AI, and everything in between.
-
-### 🎯 Current Focus Areas
-- **Generative AI**: LLMs, RAG pipelines, prompt engineering, and AI agents
-- **Computer Vision**: Object detection, tracking, and real-time video analytics
-- **NLP & Embeddings**: Semantic search, recommendation systems, and language models
-- **Applied AI**: Building production-ready systems with LangChain, HuggingFace, and FastAPI
 
 ## 🛠️ Tech Stack
 
@@ -64,37 +54,13 @@ I build AI systems that solve real-world problems — from visual perception to 
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="80" height="40"/></a>
 </p>
 
-## 🧠 What I'm Learning Right Now
-
-### Generative AI Deep Dive 🚀
-- **RAG Systems**: Building retrieval-augmented generation pipelines for domain-specific Q&A
-- **LangChain**: Creating AI agents, chains, and memory systems for complex workflows
-- **Fine-tuning LLMs**: Experimenting with LoRA, QLoRA for custom model adaptation
-- **Prompt Engineering**: Mastering techniques for better LLM outputs
-- **Multi-modal AI**: Combining vision and language models (CLIP, GPT-4V)
-
-### Advanced Topics 📖
-- Vector databases and semantic search at scale
-- LLM orchestration and agent frameworks
-- Responsible AI and model safety
-- MLOps and model deployment pipelines
-
-## 🌟 Current Interests
-
-- Building RAG systems for enterprise knowledge bases
-- Exploring open-source LLMs (Llama 3, Mistral, Falcon)
-- Creating AI agents with LangChain and AutoGPT
-- Fine-tuning models for specific domains
-- Multi-modal AI applications (vision + language)
-- Prompt engineering and optimization techniques
-
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunbhaii&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
@@ -102,14 +68,12 @@ I build AI systems that solve real-world problems — from visual perception to 
 
 Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
 
-<p align="center">
-  <a href="https://linkedin.com/in/scmvikram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20" height="20"/>
-  </a>
-  <a href="mailto:vikrmadityamishra@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="20" height="20"/>
-  </a>
-  <a href="https://twitter.com/kyunbhaii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="20" height="20"/>
-  </a>
-</p>
+<a href="https://twitter.com/kyunbhaii">
+  <img align="right" alt="Vikramaditya Mishra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/scmvikram">
+  <img align="right" alt="Vikramaditya Mishra | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="mailto:vikrmadityamishra@gmail.com">
+  <img align="right" alt="Email" width="21px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+</a>
