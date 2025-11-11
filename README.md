@@ -11,45 +11,45 @@ A machine learning engineer building practical AI systems across vision, languag
 
 ## Tech Stack
 
-<table width="100%">
+<table width="100%" style="max-width:900px; margin:0 auto; border-collapse:collapse;">
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #333; padding: 10px;">
+    <td align="center" width="50%" style="border:1px solid #2f363d; padding:18px;">
       <b>Languages & Frameworks</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" style="margin:8px;"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" style="margin:8px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" style="margin:8px;"/>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #333; padding: 10px;">
+    <td align="center" width="50%" style="border:1px solid #2f363d; padding:18px;">
       <b>Traditional ML/DL</b><br><br>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" style="margin:8px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" style="margin:8px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" style="margin:8px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48" style="margin:8px;"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #333; padding: 10px;">
+    <td align="center" style="border:1px solid #2f363d; padding:18px;">
       <b>Computer Vision</b><br><br>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://avatars.githubusercontent.com/u/69666225?s=200&v=4" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" style="margin:8px;"/>
+      <img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" width="48" height="48" style="margin:8px;"/>
+      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" style="margin:8px;"/>
+      <img src="https://avatars.githubusercontent.com/u/69666225?s=200&v=4" width="48" height="48" style="margin:8px;"/>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #333; padding: 10px;">
+    <td align="center" style="border:1px solid #2f363d; padding:18px;">
       <b>Generative AI & LLMs</b><br><br>
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="48" height="48" style="margin:8px;"/>
+      <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="48" height="48" style="margin:8px;"/>
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" style="margin:8px;"/>
+      <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48" style="margin:8px;"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" style="border: 1px solid #333; padding: 10px;">
+    <td align="center" colspan="2" style="border:1px solid #2f363d; padding:14px;">
       <b>Tools & Platforms</b><br><br>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80" height="40" style="margin: 5px;"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" style="margin:10px;"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48" style="margin:10px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" style="margin:10px;"/>
+      <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="96" height="48" style="margin:10px;"/>
     </td>
   </tr>
 </table>
