@@ -18,6 +18,22 @@ A machine learning engineer building practical AI systems across vision, languag
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="35" height="35" style="margin-right:10px;"/></a>
 </p>
 
+**Computer Vision:**
+<p align="left">
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="35" height="35" style="margin-right:10px;"/>
+  </a>
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" alt="YOLOv8" width="35" height="35" style="margin-right:10px;"/>
+  </a>
+  <a href="https://pytorch.org/vision/stable/index.html" target="_blank">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="Torchvision" width="35" height="35" style="margin-right:10px;"/>
+  </a>
+  <a href="https://github.com/facebookresearch/detectron2" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/69666225?s=200&v=4" alt="Detectron2" width="35" height="35" style="margin-right:10px;"/>
+  </a>
+</p>
+
 **Generative AI & LLMs:**
 <p align="left">
   <a href="https://ai.meta.com/llama/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="LLaMA" width="35" height="35" style="margin-right:10px;"/></a>
@@ -34,12 +50,6 @@ A machine learning engineer building practical AI systems across vision, languag
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://ultralytics.com/yolov8" target="_blank"><img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" alt="YOLOv8" width="35" height="35" style="margin-right:10px;"/></a>
   <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="https://avatars.githubusercontent.com/u/43483749?s=200&v=4" alt="Gensim" width="35" height="35" style="margin-right:10px;"/></a>
-</p>
-
-**Computer Vision:**
-<p align="left">
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="35" height="35" style="margin-right:10px;"/></a>
-  <a href="https://ultralytics.com/yolov8" target="_blank"><img src="https://avatars.githubusercontent.com/u/97326842?s=200&v=4" alt="YOLOv8" width="35" height="35" style="margin-right:10px;"/></a>
 </p>
 
 **Tools & Platforms:**
