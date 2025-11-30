@@ -55,7 +55,7 @@ A machine learning engineer building practical AI systems across vision, languag
 ## Stats
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats](https://github-readme-stats-git-masterr-anzar16.vercel.app/api?username=kyunbhaii&show_icons=true&theme=dark)" />
+  <img src="https://github-readme-stats-git-masterr-anzar16.vercel.app/api?username=kyunbhaii&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 
