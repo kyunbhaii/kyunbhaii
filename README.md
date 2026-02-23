@@ -2,7 +2,7 @@
 
 **`ML Engineer | Exploring Vision & GenAI`**
 
-A machine learning engineer building practical AI systems across vision, language, and generative models. I regularly share insights and experiments on Twitter.
+A machine learning engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
 
 > Focused on Generative AI, Real-Time Applications, and Computer Vision
  > 
