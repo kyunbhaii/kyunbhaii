@@ -1,6 +1,6 @@
 # Hi, I'm Vikramaditya
 
-**`ML Engineer | Exploring Vision & GenAI`**
+**`ML Engineer | Exploring GenAI`**
 
 A machine learning engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
 
