@@ -4,7 +4,7 @@
 
 A machine learning engineer building practical AI systems across vision, language, and generative models. I regularly share insights and experiments on Twitter.
 
-> Focused on Computer Vision, Generative AI, and Real-Time Applications 
+> Focused on Generative AI, Real-Time Applications, and Computer Vision
  > 
 > Currently diving deep into LLMs, RAG systems, and multi-modal AI 
 
