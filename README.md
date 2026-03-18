@@ -1,9 +1,15 @@
-<div align="center" style="display:flex; justify-content:space-between; align-items:center;">
-  <h1>Hi, I'm Vikramaditya</h1>
-  <a href="https://vikramaditya-ai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-white?style=flat&logo=vercel&logoColor=black" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hi, I'm Vikramaditya</h1>
+    </td>
+    <td align="right">
+      <a href="https://vikramaditya-ai.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/PORTFOLIO-white?style=flat&logo=vercel&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 **`ML Engineer | Exploring GenAI`**
 
