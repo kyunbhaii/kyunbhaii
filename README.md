@@ -1,12 +1,16 @@
-# Hi, I'm Vikramaditya
-
-**`ML Engineer | Exploring GenAI`**
-
-<p>
-  <a href="https://vikramaditya-ai.vercel.app/">
-    🚀 View Portfolio
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hi, I'm Vikramaditya</h1>
+      <b><code>ML Engineer | Exploring GenAI</code></b>
+    </td>
+    <td align="right">
+      <a href="https://vikramaditya-ai.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-white?style=for-the-badge&logo=vercel&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 A machine learning engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
 
