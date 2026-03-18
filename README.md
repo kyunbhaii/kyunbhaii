@@ -1,10 +1,9 @@
-<p align="right">
+<div align="center" style="display:flex; justify-content:space-between; align-items:center;">
+  <h1>Hi, I'm Vikramaditya</h1>
   <a href="https://vikramaditya-ai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-white?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-white?style=flat&logo=vercel&logoColor=black" />
   </a>
-</p>
-
-# Hi, I'm Vikramaditya
+</div>
 
 **`ML Engineer | Exploring GenAI`**
 
