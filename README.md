@@ -1,13 +1,23 @@
-# Hi, I'm Vikramaditya
+<div align="center">
+  <h1>Vikramaditya Mishra</h1>
+  <p><strong>ML Engineer | Exploring GenAI</strong></p>
 
-**`ML Engineer | Exploring GenAI`**
+  <!-- 🔥 Portfolio CTA -->
+  <p>
+    <a href="https://vikramaditya-ai.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-View%20Live-00e5bf?style=for-the-badge" />
+    </a>
+  </p>
+</div>
+
+---
 
 A machine learning engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
 
-> Focused on Generative AI, Real-Time Applications, and Computer Vision
- > 
-> Currently diving deep into LLMs, RAG systems, and multi-modal AI 
+> Focused on Generative AI, Real-Time Applications, and Computer Vision  
+> Currently diving deep into LLMs, RAG systems, and multi-modal AI  
 
+---
 
 ## Tech Stack
 
@@ -51,6 +61,7 @@ A machine learning engineer building practical AI systems across generative mode
   </tr>
 </table>
 
+---
 
 ## Stats
 
@@ -58,10 +69,13 @@ A machine learning engineer building practical AI systems across generative mode
   <img src="https://github-readme-stats.vercel.app/api?username=kyunbhaii&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
+---
 
 ## Let's Connect
 
 Open to collaborations on GenAI projects, computer vision challenges, or building production ML systems!
+
+🌐 Portfolio: https://vikramaditya-ai.vercel.app/
 
 <a href="mailto:vikrmadityamishra@gmail.com">
   <img align="right" alt="Gmail" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
