@@ -6,7 +6,7 @@
 
 # Hi, I'm Vikramaditya
 
-**`AI Engineer | Exploring GenAI`**
+**`AI Engineer | Exploring Agentic AI`**
 
 A AI Engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
 
