@@ -6,11 +6,11 @@
 
 # Hi, I'm Vikramaditya
 
-**`ML Engineer | Exploring GenAI`**
+**`AI Engineer | Exploring GenAI`**
 
-A machine learning engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
+A AI Engineer building practical AI systems across generative models, language, and vision. I regularly share insights and experiments on Twitter.
 
-> Focused on Generative AI, Real-Time Applications, and Computer Vision
+> Focused on Generative AI, Real-Time Applications, and Agentic Systems
  > 
 > Currently diving deep into LLMs, RAG systems, and multi-modal AI 
 
